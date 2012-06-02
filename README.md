@@ -25,7 +25,7 @@
 ## Перед запуском
 Создаем симлинк для SublimeText 2
 
-    sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+    sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
 
 Задаем имя и адрес почты в настройках git
 
