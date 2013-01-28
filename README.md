@@ -8,7 +8,6 @@
 
     gaech@mac:~/Projects/My/git-config[master]
     
-  * Глобальный ignore файл
   * Сокращения для основных команд
     * pull → pl
     * ph → ph
@@ -33,6 +32,6 @@
     git config --global user.email "andrej.gaevskij@gmail.com"
 
 ## Установка
-    git clone git://github.com/gaech/git-config.git
+    git clone https://github.com/TouchInstinct/git-config.git
     cd git-config/
     sh install.sh
